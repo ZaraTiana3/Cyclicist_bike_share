@@ -1,5 +1,6 @@
 <h1>Cyclicist_bike_share </h1> 
 This is A Google Data Analytics Capstone:  a Case Study from the online course provided by  Coursera . The goal of the project is to make analysis.Here is the context: 
-Google Data Analytics Capstone: Complete a Case Study
-Google Data Analytics Capstone: Complete a Case Study
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the exibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. Cyclistic’s finance analysts have concluded that annual members are much more protable than casual riders. Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to beer understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could aect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends. 
 
+
+So 
